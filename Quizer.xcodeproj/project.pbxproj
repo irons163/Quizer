@@ -315,6 +315,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = T6VV6T753H;
 				INFOPLIST_FILE = Quizer/Info.plist;
+				INFOPLIST_KEY_UIMainStoryboardFile = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -333,6 +334,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = T6VV6T753H;
 				INFOPLIST_FILE = Quizer/Info.plist;
+				INFOPLIST_KEY_UIMainStoryboardFile = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
